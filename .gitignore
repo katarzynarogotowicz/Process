@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/Process.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/modules.xml
+.idea/workspace.xml
+Process/log.html
+Process/output.xml
+Process/report.html
